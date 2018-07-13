@@ -1,0 +1,24 @@
+  footer {
+    display: flex;
+    flex-direction: row;
+  }
+  footer .stats {
+    display: flex;
+    font-size: 15px;
+  }
+  footer .stats strong {
+    font-size: 18px;
+  }
+  footer .stats .likes {
+    margin-left: 10px;
+  }
+  footer .cta {
+    margin-left: auto;
+  }
+  footer .cta button {
+    border: 0;
+    background: transparent;
+  }
+  
+  //Since flex-direction is set to "row" in the footer, all the children of "footer" will get sorted into a row//
+  //In the example on-screen, nothing changed because "row" is the default value//
