@@ -1,0 +1,6 @@
+  #box-container {
+    height: 500px;
+    display: flex;
+  }
+  
+  //Using the "flex" value for "display" lets you use other flex properties to make your page more responsive//
