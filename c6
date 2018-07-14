@@ -1,0 +1,7 @@
+  header .profile-name {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+  }
+  
+  //The tweet embed's profile name and tag are sorted on top of each other in a column//
