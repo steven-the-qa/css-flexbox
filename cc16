@@ -1,0 +1,17 @@
+  #box-1 {
+    background-color: dodgerblue;
+    order: 2;
+    height: 200px;
+    width: 200px;
+  }
+
+  #box-2 {
+    background-color: orangered;
+    order: 1;
+    height: 200px;
+    width: 200px;
+  }
+  
+  //The "order" property takes values for the order in which elements appear in the flex container//
+  //Positive and negative numbers can be used//
+  //Default is the order the elements appear in the HTML source code//
