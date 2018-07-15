@@ -1,0 +1,13 @@
+  #box-1 {
+    background-color: dodgerblue;
+    height: 200px;
+    flex-basis: 10em;
+  }
+  
+  #box-2 {
+    background-color: orangered;
+    height: 200px;
+    flex-basis: 20em;
+  }
+  
+  //"flex-basis" sets the initial size of the elements (aka the basis upon which to base adjustments like flex-shrink/grow)//
