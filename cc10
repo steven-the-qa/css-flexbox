@@ -1,0 +1,7 @@
+  header .follow-btn {
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 auto;
+  }
+  
+  //Centers the button element vertically//
