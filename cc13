@@ -1,0 +1,14 @@
+  #box-1 {
+    background-color: dodgerblue;
+    height: 200px;
+    flex-grow: 1;
+  }
+  
+  #box-2 {
+    background-color: orangered;
+    height: 200px;
+    flex-grow: 2;
+  }
+  
+  //"flex-grow" controls the size of elements when the parent container expands//
+  //The higher the number the more it grows!//
