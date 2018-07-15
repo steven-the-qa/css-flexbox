@@ -1,0 +1,16 @@
+  #box-container {
+    background: gray;
+    display: flex;
+    height: 500px;
+    justify-content: center;
+  }
+  
+  //"justify-content" is an attribute whose value determines the spacing and alignment of the elements on the main axis of the flex container//
+  //Rows are on the horizontal axis and columns are on the vertical//
+  /*Options for alignment include:
+  center
+  flex-start
+  flex-end
+  space-between
+  space-around
+  */
