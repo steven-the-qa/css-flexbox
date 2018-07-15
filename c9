@@ -1,0 +1,16 @@
+  #box-container {
+    background: gray;
+    display: flex;
+    height: 500px;
+    align-items: center;
+  }
+  
+  //The "align-items" attribute is similar to "justify-content" except it aligns things along the CROSS axis (for rows, it's the vertical)//
+  /*
+  Options for values include:
+  center
+  flex-start
+  flex-end
+  stretch
+  baseline
+  */
