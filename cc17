@@ -1,0 +1,17 @@
+  #box-1 {
+    background-color: dodgerblue;
+    align-self: center;
+    height: 200px;
+    width: 200px;
+  }
+
+  #box-2 {
+    background-color: orangered;
+    align-self: flex-end;
+    height: 200px;
+    width: 200px;
+  }
+  
+  //"align-self" overrides "align-items" for the element it's assigned to//
+  //"align-self" takes the same values as "align-items" does//
+  //Lets you adjust each element's alignment individually//
