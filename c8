@@ -1,0 +1,10 @@
+  header .profile-name {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 10px;
+  }
+  
+  //Applying this justify-content attribute to the profile name with the value space-around//
+  //This centers the content vertically (because display: column) and evenly spaces it, with space on the edges of the flex container//
+ 
