@@ -1,0 +1,10 @@
+  #box-container {
+    background: gray;
+    display: flex;
+    height: 100%;
+    flex-wrap: wrap;
+  }
+  
+  //"flex-wrap" tells the flex container how to wrap extra elements//
+ //The default value is "nowrap"//
+ //The only other options are "wrap" and "wrap-reverse"//
